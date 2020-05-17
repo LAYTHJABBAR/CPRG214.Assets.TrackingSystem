@@ -1,0 +1,15 @@
+E:\Sait\Winter 2020 - .NET Web Applications\modules\Lab 2 MVC\CPRG214.AssetTrackinSystem\CPRG214.AssetTrackingSystem.Data\bin\Debug\netcoreapp3.1\CPRG214.AssetTrackingSystem.Data.deps.json
+E:\Sait\Winter 2020 - .NET Web Applications\modules\Lab 2 MVC\CPRG214.AssetTrackinSystem\CPRG214.AssetTrackingSystem.Data\bin\Debug\netcoreapp3.1\CPRG214.AssetTrackingSystem.Data.dll
+E:\Sait\Winter 2020 - .NET Web Applications\modules\Lab 2 MVC\CPRG214.AssetTrackinSystem\CPRG214.AssetTrackingSystem.Data\obj\Debug\netcoreapp3.1\CPRG214.AssetTrackingSystem.Data.csprojAssemblyReference.cache
+E:\Sait\Winter 2020 - .NET Web Applications\modules\Lab 2 MVC\CPRG214.AssetTrackinSystem\CPRG214.AssetTrackingSystem.Data\obj\Debug\netcoreapp3.1\CPRG214.AssetTrackingSystem.Data.AssemblyInfoInputs.cache
+E:\Sait\Winter 2020 - .NET Web Applications\modules\Lab 2 MVC\CPRG214.AssetTrackinSystem\CPRG214.AssetTrackingSystem.Data\obj\Debug\netcoreapp3.1\CPRG214.AssetTrackingSystem.Data.AssemblyInfo.cs
+E:\Sait\Winter 2020 - .NET Web Applications\modules\Lab 2 MVC\CPRG214.AssetTrackinSystem\CPRG214.AssetTrackingSystem.Data\bin\Debug\netcoreapp3.1\CPRG214.AssetTrackingSystem.Data.runtimeconfig.json
+E:\Sait\Winter 2020 - .NET Web Applications\modules\Lab 2 MVC\CPRG214.AssetTrackinSystem\CPRG214.AssetTrackingSystem.Data\bin\Debug\netcoreapp3.1\CPRG214.AssetTrackingSystem.Data.runtimeconfig.dev.json
+E:\Sait\Winter 2020 - .NET Web Applications\modules\Lab 2 MVC\CPRG214.AssetTrackinSystem\CPRG214.AssetTrackingSystem.Data\obj\Debug\netcoreapp3.1\CPRG214.AssetTrackingSystem.Data.genruntimeconfig.cache
+E:\Sait\Winter 2020 - .NET Web Applications\modules\Lab 2 MVC\CPRG214.AssetTrackinSystem\CPRG214.AssetTrackingSystem.Data\bin\Debug\netcoreapp3.1\CPRG214.AssetTrackingSystem.Data.pdb
+E:\Sait\Winter 2020 - .NET Web Applications\modules\Lab 2 MVC\CPRG214.AssetTrackinSystem\CPRG214.AssetTrackingSystem.Data\bin\Debug\netcoreapp3.1\CPRG214.AssetTrackingSystem.Domain.dll
+E:\Sait\Winter 2020 - .NET Web Applications\modules\Lab 2 MVC\CPRG214.AssetTrackinSystem\CPRG214.AssetTrackingSystem.Data\bin\Debug\netcoreapp3.1\CPRG214.AssetTrackingSystem.Domain.pdb
+E:\Sait\Winter 2020 - .NET Web Applications\modules\Lab 2 MVC\CPRG214.AssetTrackinSystem\CPRG214.AssetTrackingSystem.Data\obj\Debug\netcoreapp3.1\CPRG214.AssetTrackingSystem.Data.csproj.CoreCompileInputs.cache
+E:\Sait\Winter 2020 - .NET Web Applications\modules\Lab 2 MVC\CPRG214.AssetTrackinSystem\CPRG214.AssetTrackingSystem.Data\obj\Debug\netcoreapp3.1\CPRG214.AssetTrackingSystem.Data.csproj.CopyComplete
+E:\Sait\Winter 2020 - .NET Web Applications\modules\Lab 2 MVC\CPRG214.AssetTrackinSystem\CPRG214.AssetTrackingSystem.Data\obj\Debug\netcoreapp3.1\CPRG214.AssetTrackingSystem.Data.dll
+E:\Sait\Winter 2020 - .NET Web Applications\modules\Lab 2 MVC\CPRG214.AssetTrackinSystem\CPRG214.AssetTrackingSystem.Data\obj\Debug\netcoreapp3.1\CPRG214.AssetTrackingSystem.Data.pdb
